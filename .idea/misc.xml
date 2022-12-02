@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/asus/Documents/feedsystem/app/src/main/res/drawable/ic_wave.xml" value="0.191" />
         <entry key="..\:/Users/asus/Documents/feedsystem/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/asus/Documents/feedsystem/app/src/main/res/layout/homepage_layout.xml" value="0.21784420289855072" />
       </map>
     </option>
   </component>
