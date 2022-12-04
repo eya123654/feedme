@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 finish();
 
             }
-        },4000);
+        },1000);
 
     }
 }
