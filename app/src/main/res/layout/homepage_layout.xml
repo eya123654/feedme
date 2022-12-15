@@ -30,7 +30,7 @@
             android:layout_centerVertical="true"
             android:layout_marginRight="45dp"
             android:background="@drawable/roundbtn"
-            android:text="Check cam"
+            android:text="Check Meal"
             android:textColor="@color/black"/>
     </RelativeLayout>
 
